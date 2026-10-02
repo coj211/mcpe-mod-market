@@ -7,8 +7,8 @@
    "version": "1.0",
    "desc": "召唤末影龙（/dragon），Mojang 官方几何 + 手写骨骼动画",
    "urls": [
-    "https://cdn.jsdelivr.net/gh/coj211/mcpe-mod-market@main/mods/enderdragon.zip",
-    "https://fastly.jsdelivr.net/gh/coj211/mcpe-mod-market@main/mods/enderdragon.zip"
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/enderdragon.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/enderdragon.zip"
    ]
   },
   {
@@ -18,8 +18,8 @@
    "version": "1.1",
    "desc": "obj 物品/方块 + 骨骼动画的四个例子（含旋转演示）",
    "urls": [
-    "https://cdn.jsdelivr.net/gh/coj211/mcpe-mod-market@main/mods/objdemo.zip",
-    "https://fastly.jsdelivr.net/gh/coj211/mcpe-mod-market@main/mods/objdemo.zip"
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/objdemo.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/objdemo.zip"
    ]
   }
  ]
