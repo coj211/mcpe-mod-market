@@ -1,25 +1,212 @@
 {
  "mods": [
   {
-   "id": "enderdragon",
-   "name": "末影龙",
-   "author": "coj211",
-   "version": "1.0",
-   "desc": "召唤末影龙（/dragon），Mojang 官方几何 + 手写骨骼动画",
+   "id": "aether_mod",
+   "name": "天境",
+   "author": "coj2",
+   "version": "3.1.0",
+   "desc": "天境 v3.1 —— 柏林噪声浮空大陆 + 装饰 + 进入加载页（分帧预生成防卡顿）+ 云弹性（白云轻弹/蓝云高弹）",
    "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/enderdragon.zip",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/enderdragon.zip"
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/aether_mod.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/aether_mod.zip"
    ]
   },
   {
-   "id": "objdemo",
-   "name": "obj 模型演示",
-   "author": "coj211",
-   "version": "1.1",
-   "desc": "obj 物品/方块 + 骨骼动画的四个例子（含旋转演示）",
+   "id": "block_mod",
+   "name": "block_mod",
+   "author": "unknown",
+   "version": "1.0",
+   "desc": "",
    "urls": [
-    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/objdemo.zip",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/objdemo.zip"
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/block_mod.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/block_mod.zip"
+   ]
+  },
+  {
+   "id": "blockapi_test",
+   "name": "方块 API 测试",
+   "author": "Reasonix",
+   "version": "1.0",
+   "desc": "一次性测完 自定义方块模型(3D/2D/多部件) · 方块动画 · 自定义放置 · 微方块",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/blockapi_test.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/blockapi_test.zip"
+   ]
+  },
+  {
+   "id": "chair",
+   "name": "椅子",
+   "author": "coj2",
+   "version": "1.1.0",
+   "desc": "椅子方块。把准星对着椅子按 J 坐下（附近没有准星目标时会退一步找身边",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/chair.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/chair.zip"
+   ]
+  },
+  {
+   "id": "cmd_mod",
+   "name": "通用服务器命令",
+   "author": "coj2",
+   "version": "1.1.0",
+   "desc": "服务器 / 主机 / 单机通用命令 mod —— /list /dim /home /kick /say /tp /time /seed /save /mods /modlist /op /deop /ops",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/cmd_mod.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/cmd_mod.zip"
+   ]
+  },
+  {
+   "id": "cmdkit",
+   "name": "指令系统测试套件",
+   "author": "coj2",
+   "version": "2.0.0",
+   "desc": "模组指令系统三合一 = 框架(注册/别名/参数解析/op 门禁/统一回话) + 自检(/ct run)",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/cmdkit.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/cmdkit.zip"
+   ]
+  },
+  {
+   "id": "crit_mod",
+   "name": "暴击模组",
+   "author": "You",
+   "version": "1.3.0",
+   "desc": "玩家跳跃后 2 秒内攻击 -> 暴击（跳砍）：爆炸粒子 + 伤害 1.5 倍",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/crit_mod.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/crit_mod.zip"
+   ]
+  },
+  {
+   "id": "giant_zip",
+   "name": "Giant Zip Test",
+   "author": "You",
+   "version": "1.7.0",
+   "desc": "dimension API + black dragon boss (all JS)",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/giant_zip.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/giant_zip.zip"
+   ]
+  },
+  {
+   "id": "hellbiome",
+   "name": "地狱火山群系",
+   "author": "coj2",
+   "version": "1.2.0",
+   "desc": "自定义群系 API 的测试模组 —— 地狱火山（地狱岩山 + 岩浆湖 + 僵尸猪人 + 暗红天色/雾）。",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/hellbiome.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/hellbiome.zip"
+   ]
+  },
+  {
+   "id": "hunger_mod",
+   "name": "饥饿值系统",
+   "author": "You",
+   "version": "1.4.0",
+   "desc": "饥饿值 + 自然回血 + 饿死 + 难度/创造感知 + 持久化",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/hunger_mod.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/hunger_mod.zip"
+   ]
+  },
+  {
+   "id": "itemmodel",
+   "name": "物品模型示例",
+   "author": "coj2",
+   "version": "1.0.0",
+   "desc": "演示自定义物品的 3D 模型 + 动画 —— 一把会飘会转的\"水晶法杖\"。",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/itemmodel.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/itemmodel.zip"
+   ]
+  },
+  {
+   "id": "pose_demo",
+   "name": "玩家动作 + 变身演示",
+   "author": "dev",
+   "version": "3.0.0",
+   "desc": "",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/pose_demo.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/pose_demo.zip"
+   ]
+  },
+  {
+   "id": "rc5_shadow",
+   "name": "光影包 v0.2 · 合成级 + 实时阴影(rc5)",
+   "author": "dev",
+   "version": "0.2.0",
+   "desc": "在 rc4 光影(v0.1,曝光/ACES色调映射/饱和度/空气雾/菲涅尔水反/暗角)",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/rc5_shadow.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/rc5_shadow.zip"
+   ]
+  },
+  {
+   "id": "sit_demo",
+   "name": "坐姿演示",
+   "author": "dev",
+   "version": "1.0.0",
+   "desc": "坐姿 API 演示(player.sit/stand + onKey 事件编排):",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/sit_demo.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/sit_demo.zip"
+   ]
+  },
+  {
+   "id": "smoke_test",
+   "name": "ServerSmokeTest",
+   "author": "reasonix",
+   "version": "1.0.0",
+   "desc": "验证独立服务端真的加载并执行了 JS mod（含服务端命令）",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/smoke_test.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/smoke_test.zip"
+   ]
+  },
+  {
+   "id": "sprint_mod",
+   "name": "疾跑模组",
+   "author": "You",
+   "version": "1.1.0",
+   "desc": "连按两下 W 疾跑；饥饿值 < 4 时不能疾跑（与饥饿模组联动）",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/sprint_mod.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/sprint_mod.zip"
+   ]
+  },
+  {
+   "id": "superflat",
+   "name": "超平坦维度",
+   "author": "coj2",
+   "version": "1.0.0",
+   "desc": "一个超平坦维度（建筑 / 测试用）：地表一层草，下面泥土，再往下石头直到基岩。",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/superflat.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/superflat.zip"
+   ]
+  },
+  {
+   "id": "taczgun",
+   "name": "AK47",
+   "author": "unknown",
+   "version": "1.0.0",
+   "desc": "移植自 Java 版「永恒枪械工坊：零」(taCZ) 的一把枪 + 弹药 + 换弹。30 发弹匣、左键（按住）开火、R 换弹、命中扣血、右下角弹药显示；拿着枪时左键/右键被模组接管（不会挖方块/放方块）。",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/taczgun.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/taczgun.zip"
+   ]
+  },
+  {
+   "id": "time_control",
+   "name": "时间控制",
+   "author": "Reasonix",
+   "version": "1.0.0",
+   "desc": "调整游戏内时间：面板(按 K)一键跳到 清晨/正午/黄昏/午夜；聊天命令 /time",
+   "urls": [
+    "https://ghproxy.net/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/time_control.zip",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/coj211/mcpe-mod-market/main/mods/time_control.zip"
    ]
   }
  ]
